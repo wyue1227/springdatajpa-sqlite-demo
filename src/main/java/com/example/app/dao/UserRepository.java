@@ -1,6 +1,6 @@
-package com.example.springdatajpasqlite.dao;
+package com.example.app.dao;
 
-import com.example.springdatajpasqlite.bean.User;
+import com.example.app.bean.User;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

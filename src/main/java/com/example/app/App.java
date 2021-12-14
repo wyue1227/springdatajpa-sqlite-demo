@@ -1,13 +1,13 @@
-package com.example.springdatajpasqlite;
+package com.example.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringdatajpaSqliteApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringdatajpaSqliteApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }

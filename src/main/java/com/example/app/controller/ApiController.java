@@ -1,7 +1,7 @@
-package com.example.springdatajpasqlite.controller;
+package com.example.app.controller;
 
-import com.example.springdatajpasqlite.bean.User;
-import com.example.springdatajpasqlite.service.UserService;
+import com.example.app.bean.User;
+import com.example.app.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.GetMapping;

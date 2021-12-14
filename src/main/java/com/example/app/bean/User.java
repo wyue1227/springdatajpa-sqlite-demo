@@ -1,4 +1,4 @@
-package com.example.springdatajpasqlite.bean;
+package com.example.app.bean;
 
 import javax.persistence.*;
 import java.io.Serializable;

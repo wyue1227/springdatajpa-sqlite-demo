@@ -1,7 +1,7 @@
-package com.example.springdatajpasqlite.service;
+package com.example.app.service;
 
-import com.example.springdatajpasqlite.bean.User;
-import com.example.springdatajpasqlite.dao.UserRepository;
+import com.example.app.bean.User;
+import com.example.app.dao.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
